@@ -1,0 +1,29 @@
+{
+  "name": "node5-csv-to-json",
+  "version": "1.0.0",
+  "description": "CSV to JSN",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanderson/csv-to-json.git"
+  },
+  "keywords": [
+    "csv",
+    "json"
+  ],
+  "author": "zoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanderson/csv-to-json/issues"
+  },
+  "homepage": "https://github.com/zanderson/csv-to-json#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "csv-to-json": "^0.1.2",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
